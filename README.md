@@ -1,6 +1,7 @@
 # AxelIT
 
-[AxelIT Logo]([https://drive.google.com/file/d/13IwNxQbVuWZX4vs6fDI_NFuZTldw3kZH/view?usp=sharing])
+[![AxelIT Logo](assets/cover.png)](https://labofdev.com)
+
 
 ---
 
