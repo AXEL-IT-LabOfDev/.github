@@ -1,6 +1,6 @@
 # AxelIT
 
-![AxelIT Logo](https://your-logo-url-here.com)
+![AxelIT Logo]([https://.com](https://drive.google.com/file/d/13IwNxQbVuWZX4vs6fDI_NFuZTldw3kZH/view?usp=sharing))
 
 ---
 
@@ -28,7 +28,7 @@ Lead by **Oleksii Pasichnyk**, our expert FinOps/DevOps Career Coach, AxelIT pro
 
 Follow AxelIT on LinkedIn to stay updated with the latest insights and offerings:
 
-* [AxelIT LinkedIn](https://linkedin.com)
+* [AxelIT LinkedIn](https://www.linkedin.com/company/axelbootcamp)
 
 ## 📌 Repository Contents
 
