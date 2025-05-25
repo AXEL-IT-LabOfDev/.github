@@ -1,6 +1,6 @@
 # AxelIT
 
-[![AxelIT Logo](assets/cover.png)](https://labofdev.com)
+[![AxelIT Logo](../assets/cover.png)](https://labofdev.com)
 
 
 ---
